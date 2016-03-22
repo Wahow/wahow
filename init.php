@@ -1,7 +1,6 @@
 <?php 
 
 //add test
-	$a=0;
         session_start();
         
        $_SESSION['ckfinder']='ckfinder';
